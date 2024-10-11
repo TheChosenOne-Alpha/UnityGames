@@ -38,3 +38,13 @@ Unity Game
 learn how to use 3d tools
 
 learn how to make an FPP game
+
+## 3D world 2.0
+
+2024/10/10
+
+Run & Crouch update
+
+Weapon (Gun) update
+
+Learn how to make effect
