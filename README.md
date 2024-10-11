@@ -19,6 +19,15 @@ Instruction for Every Unity Games
 
 7. Play!
 
+
+## **Caution**
+
+Make sure you change your computer screen resolution to 1920 x 1080 (Full HD) before playing the game for a better experience
+
+go to Settings -> System -> Display -> Display Resolution.
+
+If you use other resolutions, the screen will be lagging.
+
 ## Flappy Bird
 
 Unity Game
