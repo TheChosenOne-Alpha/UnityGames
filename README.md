@@ -20,7 +20,7 @@ Instruction for Every Unity Games
 7. Play!
 
 
-## Caution
+# Caution
 
 Make sure you change your computer screen resolution to 1920 x 1080 (Full HD) before playing the game for a better experience
 
@@ -28,32 +28,35 @@ go to Settings -> System -> Display -> Display Resolution.
 
 If you use other resolutions, the screen will be lagging.
 
-## Flappy Bird
 
-Unity Game
-
-2024/08/??
-
-flappy bird copy
-
-learn how to use unity
-
-## 3D world
-
-Unity Game
-
-2024/10/02
-
-learn how to use 3d tools
-
-learn how to make an FPP game
-
-## 3D world 2.0
-
-2024/10/10
-
-Run & Crouch update
-
-Weapon (Gun) update
-
-Learn how to make effect
+# Games
+  
+  ## Flappy Bird
+  
+  Unity Game
+  
+  2024/08/??
+  
+  flappy bird copy
+  
+  learn how to use unity
+  
+  ## 3D world
+  
+  Unity Game
+  
+  2024/10/02
+  
+  learn how to use 3d tools
+  
+  learn how to make an FPP game
+  
+  ## 3D world 2.0
+  
+  2024/10/10
+  
+  Run & Crouch update
+  
+  Weapon (Gun) update
+  
+  Learn how to make effect
