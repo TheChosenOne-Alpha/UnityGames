@@ -20,7 +20,7 @@ Instruction for Every Unity Games
 7. Play!
 
 
-## **Caution**
+## Caution
 
 Make sure you change your computer screen resolution to 1920 x 1080 (Full HD) before playing the game for a better experience
 
