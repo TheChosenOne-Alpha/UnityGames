@@ -1,11 +1,11 @@
 # UnityGames
-Only my Unity projects
+My Unity projects
 
 # How To Play
 
-Instruction for Every Unity Games
+Instruction for Downloadig Games
 
-1. click the "download raw file" button on the right
+1. click the "download raw file" button on the top right
 
 2. open a downloaded file
 
@@ -15,25 +15,23 @@ Instruction for Every Unity Games
 
 5. extract
 
-6. open the file (ignore the warning from Windows protection)  it is not a virus(this sounds suspicious)
+6. open the application file (ignore the warning from Windows protection it is not a virus trust me)
 
 7. Play!
 
 
 # Caution
 
-Make sure you change your computer screen resolution to 1920 x 1080 (Full HD) before playing the game for a better experience
+Make sure you have your computer screen resolution set to 1920 x 1080 (Full HD) before playing the game for a better experience
 
 go to Settings -> System -> Display -> Display Resolution.
 
-If you use other resolutions, the screen will be lagging.
+If you use other resolutions, the game will be lagging.
 
 
 # Games
   
   ## Flappy Bird
-  
-  Unity Game
   
   2024/08/??
   
@@ -42,8 +40,6 @@ If you use other resolutions, the screen will be lagging.
   learn how to use unity
   
   ## 3D world
-  
-  Unity Game
   
   2024/10/02
   
@@ -60,3 +56,11 @@ If you use other resolutions, the screen will be lagging.
   Weapon (Gun) update
   
   Learn how to make effect
+
+  ## Piano Simulator
+
+  2025/09/07
+
+  made it in early 2025 but forgot to push to GitHub
+
+  portable piano lol
