@@ -15,18 +15,9 @@ Instruction for Downloadig Games
 
 5. extract
 
-6. open the application file (ignore the warning from Windows protection it is not a virus trust me)
+6. open the game application file
 
 7. Play!
-
-
-# Caution
-
-Make sure you have your computer screen resolution set to 1920 x 1080 (Full HD) before playing the game for a better experience
-
-go to Settings -> System -> Display -> Display Resolution.
-
-If you use other resolutions, the game will be lagging.
 
 
 # Games
