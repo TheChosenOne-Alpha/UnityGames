@@ -1,21 +1,21 @@
 # UnityGames
-My Unity projects
+My Unity Projects
 
 # How To Play
 
-Instruction for Downloadig Games
+Instructions for Downloading Games
 
-1. click the "download raw file" button on the top right
+1. Click the "download raw file" button on the top right
 
-2. open a downloaded file
+2. Open a downloaded file
 
-3. click the game file
+3. Click the game file
 
-4. open the game application file
+4. Open the game application file with the game name on it
 
 5. extract
 
-6. open the game application file
+6. Open the same application file
 
 7. Play!
 
